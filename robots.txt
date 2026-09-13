@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sabeel-quran-academy.github.io/sitemap.xml
